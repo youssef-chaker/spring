@@ -1,0 +1,7 @@
+spring :
+  datasource:
+    url: jdbc:mysql://localhost:3306/resto?useSSL=false&serverTimezone=UTC
+    password: youssef
+    username: youssef
+  jpa:
+    show-sql: true
